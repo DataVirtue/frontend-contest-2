@@ -187,6 +187,7 @@ nav{
     display: flex;
     justify-content: space-between;
     margin: 10px;
+    margin-left: 0px;
     color: #C8C9C3;
 }
 #blog-section{
